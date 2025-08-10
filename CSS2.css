@@ -1,0 +1,36 @@
+.red {
+    color: red;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.colored-list > li {
+    color: red;
+}
+.colored-list > ul > li:first-child {
+    color: green;
+}
+.colored-list > ul > li:last-child {
+    color: blue;
+}
+.colored-list > li:last-child {
+    color: purple;
+}
+
+.word-sizes span.size1 {
+    font-size: 10px;
+}
+.word-sizes span.size2 {
+    font-size: 14px;
+}
+.word-sizes span.size3 {
+    font-size: 18px;
+}
+.word-sizes span.size4 {
+    font-size: 22px;
+}
+.word-sizes span.size5 {
+    font-size: 26px;
+}
